@@ -186,7 +186,7 @@ The applications, services which are deployed using DockM tool can be accessed o
 
 ![](screenshot/runningService.png)
 
-* To access the running service over brower you will need to set portforwarding rule for VPC and Security group.
+* To access the running service over browser, you will need to set portforwarding rules for VPC and Security group.
 
 * Go to `Networks & CDN -> VPC Networks` from the Qingcloud console and click on view details option of the VPC you created. 
 
